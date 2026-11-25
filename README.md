@@ -18,9 +18,9 @@ I am learning Pandas step by step as part of my journey toward becoming an AI En
 - [ ] Day 01 – Introduction to Pandas
 - [ ] Day 02 –
 - [ ] Day 03 –  Series,DataFrames,Reading CSV and Excel Files,Data Selection and Filtering
-- [ ] Day 04 – 
+- [ ] Day 04 – Data Manipulation,Adding and Removing Columns
 - [ ] Day 05 – 
-- [ ] Day 06 – Data Manipulation
+- [ ] Day 06 – 
 - [ ] Day 07 – Adding and Removing Columns
 - [ ] Day 08 – Handling Missing Values
 - [ ] Day 09 – Data Cleaning
